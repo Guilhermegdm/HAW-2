@@ -1,3 +1,4 @@
 verificação de arquivos 
 verificação de comandos 
-verificação de conectividade 
+verificação de rede
+teste para mostrar
